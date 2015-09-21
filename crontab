@@ -1,0 +1,2 @@
+* * * * * root env - `cat /root/env.txt` /tmp/run_backup.sh > /dev/console
+# An empty line is required at the end of this file for a valid cron file.
