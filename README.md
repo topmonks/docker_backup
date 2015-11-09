@@ -42,5 +42,5 @@ $ docker-compose build
 
 3. Run container
 ```
-$ docker-compose up
+$ docker-compose up	
 ```
